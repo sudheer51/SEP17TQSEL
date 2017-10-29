@@ -21,6 +21,7 @@ import org.testng.annotations.Test;
 
 import jxl.read.biff.BiffException;
 //Adding lines for branch US12345
+//Trying the command from git bash
 public class RetailMeNotTests {
 	WebDriver driver;
 	HomePage h1  ;
